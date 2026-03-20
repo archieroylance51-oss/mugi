@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Online Key",
+    "description": "Paste your Mugi online key from https://mugi.store to update this device.",
+    "functionName": "online_key",
+    "type": "StringTextInput",
+    "value": ""
+  },
+  {
+    "name": "Disable Premium Gold Buttons",
+    "description": "Premium only: turn off the gold button styling in the store page.",
+    "functionName": "disable_gold_buttons",
+    "type": "CheckBox",
+    "value": false
+  }
+]

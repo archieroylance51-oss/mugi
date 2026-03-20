@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SteamClientHomebrew/Millennium/main/src/sys/plugin-schema.json",
+  "name": "Mugi",
+  "common_name": "Mugi",
+  "description": "download games and online-fix easily.",
+  "version": "1.6.1",
+  "author": "debounced / piracybound",
+  "include": [
+    "settings.json"
+  ]
+}
